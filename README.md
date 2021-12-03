@@ -10,11 +10,12 @@ run
 py main.py
 ```
 
-### ฟังก์ชันเขียนโค้ด
+### คำสั่งทั้งหมด
 
-![This is an image](https://www.img.in.th/images/1238e1cbb9d941260b2e7defb0b6ff9a.png)
+![This is an image](https://www.img.in.th/images/6facedd7a42df4d82fab2f3d9456ae93.png)
 
-### ฟังก์ชันเกม XO
+### ฟังก์ชันเปิดเพลง
 
-![This is an image](https://www.img.in.th/images/d8ea185a48f7d18e2ae827bf3c2c6084.png)
+![This is an image](https://www.img.in.th/images/4a9139faae777b5161a4805efb0944b9.png)
 
+![This is an image](https://www.img.in.th/images/f766cf2518b3c442f63d9de27cc99ab3.png)

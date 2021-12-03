@@ -1,7 +1,3 @@
-# 915148819384139776 client
-# 8
-# OTE1MTQ4ODE5Mzg0MTM5Nzc2.YaXYwQ.PHR06F0pl_llIRxX6T4xkVKfbEM
-
 import discord
 from discord.ext import commands
 from pistonapi import PistonAPI

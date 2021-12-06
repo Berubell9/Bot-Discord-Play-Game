@@ -10,16 +10,14 @@ run
 py main.py
 ```
 
-### คำสั่งทั้งหมด
+### ฟังก์ชันเขียนโต้ดเเล้วมี Output ออกมา
 
-![This is an image](https://www.img.in.th/images/6facedd7a42df4d82fab2f3d9456ae93.png)
+![This is an image](https://www.img.in.th/images/a4d44ed53718f232d7ac70fff1c9bf73.png)
 
-### ฟังก์ชันเปิดเพลง
+![This is an image](https://www.img.in.th/images/351a79a9838ae2862fa1923333d6bbb5.png)
 
-![This is an image](https://www.img.in.th/images/4a9139faae777b5161a4805efb0944b9.png)
+### เกม XO
 
-![This is an image](https://www.img.in.th/images/f766cf2518b3c442f63d9de27cc99ab3.png)
+![This is an image](https://www.img.in.th/images/a4d4fd0901fe76702377b0d77cfb8aab.png)
 
-### ฟังก์ชันตอบกลับ
-
-![This is an image](https://www.img.in.th/images/6616eccba886a9afeba286832777ca22.png)
+![This is an image](https://www.img.in.th/images/6daf354da0695aa5761f576fb0360fab.png)
